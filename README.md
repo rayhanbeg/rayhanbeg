@@ -1,4 +1,4 @@
-# Hi there, I'm Rayhan Beg 👋
+# Hi there, I'm Rayhan 👋
 
 Welcome to my GitHub profile! I'm a **Junior MERN Stack Developer** with 1 year of experience building dynamic web applications. Here's a bit more about me:
 
