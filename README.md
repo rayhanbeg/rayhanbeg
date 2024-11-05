@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Rayhan 👋</h1>
-<h3 align="center">Frontend Developer | Passionate about Crafting User-Friendly Interfaces</h3>
+<h3 align="center">Frontend Developer | Crafting User-Friendly Interfaces</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rayhanbeg&label=Profile%20views&color=0e75b6&style=flat" alt="rayhanbeg" />
@@ -7,21 +7,26 @@
 
 ---
 
-- 💻 Explore my projects: [meeee.vercel.app](https://meeee.vercel.app/)
-- 📬 Reach me at: **mdrayhan40301@gmail.com**
-- 😄 Fun fact: **I love mixing creativity with code!**
+- 💻 **Explore my projects**: [meeee.vercel.app](https://meeee.vercel.app/)
+- 📬 **Reach me at**: **mdrayhan40301@gmail.com**
+- 😄 **Fun fact**: I love mixing creativity with code!
 
 ---
 
-<h3 align="left">🌐 Connect with Me:</h3>
-<p align="left">
+<h3 align="center">🌐 Connect with Me</h3>
+<p align="center">
   <a href="https://linkedin.com/in/md-rayhann" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://discord.com/users/rayhanrafi_46837" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 </p>
 
-<h3 align="left">💻 Languages & Tools:</h3>
-<p align="left">
+---
+
+<h3 align="center">💻 Languages & Tools</h3>
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   </a>
@@ -36,6 +41,9 @@
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js" />
@@ -56,11 +64,11 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayhanbeg&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhanbeg&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rayhanbeg&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhanbeg&theme=radical" alt="GitHub Streak" width="45%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayhanbeg&show_icons=true&theme=radical&layout=compact" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayhanbeg&show_icons=true&theme=radical&layout=compact" alt="Top Languages" width="50%" />
 </p>
